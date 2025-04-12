@@ -19,7 +19,7 @@ const Statistics = () => {
     const pieColors = ['#8b5cf6', '#10b981', '#ec4899', '#3b82f6'];
 
     return (
-        <div className="py-10 px-4 md:px-10 bg-gray-100 min-h-screen">
+        <div className="py-10 px-4 md:px-10 bg-gray-100 min-h-screen bg-white text-black">
             <h2 className="text-3xl font-bold text-center mb-10 text-purple-700"> Gadget Statistics Dashboard</h2>
 
             {/* Stat Cards */}

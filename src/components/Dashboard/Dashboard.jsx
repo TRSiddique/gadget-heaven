@@ -30,7 +30,7 @@ const Dashboard = () => {
     );
 
     return (
-        <div className="p-10 bg-gray-100 min-h-screen">
+        <div className="p-10 bg-gray-100 min-h-screen bg-white text-black">
             <div className="bg-purple-600 text-white text-center py-6 rounded-t-xl mb-8">
                 <h1 className="text-3xl font-bold">Dashboard</h1>
                 <p className="mt-2">Explore the latest gadgets in your cart or wishlist.</p>
