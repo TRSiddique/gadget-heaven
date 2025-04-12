@@ -1,0 +1,232 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Apple MacBook Pro 14-inch (M3 Pro, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697230830209",
+    "category": "Laptop",
+    "price": 1999.00,
+    "description": "14.2-inch MacBook Pro with M3 Pro chip for breathtaking performance. 16-core CPU, 19-core GPU, 16GB unified memory, 512GB SSD storage.",
+    "specifications": [
+      {"display": "14.2-inch Liquid Retina XDR", "resolution": "3024×1964"},
+      {"chip": "Apple M3 Pro", "cores": "12-core CPU, 18-core GPU"},
+      {"memory": "16GB unified memory"},
+      {"storage": "512GB SSD"},
+      {"ports": "3x Thunderbolt 4, HDMI, SDXC, MagSafe 3"},
+      {"battery": "Up to 18 hours"}
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "Apple",
+    "colors": ["Space Gray", "Silver"]
+  },
+  {
+    "product_id": "2",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://earifin.com/public/uploads/all/1buJc0rYpo7qgPJmDtpTquwirnIcm9Mspy3bWGgL.jpg",
+    "category": "Phone",
+    "price": 1199.99,
+    "description": "Flagship Android smartphone with 200MP camera, S Pen compatibility, and Snapdragon 8 Gen 2 processor.",
+    "specifications": [
+      {"display": "6.8-inch Dynamic AMOLED 2X", "refresh_rate": "120Hz"},
+      {"chip": "Qualcomm Snapdragon 8 Gen 2"},
+      {"memory": "12GB RAM"},
+      {"storage": "256GB (non-expandable)"},
+      {"camera": "200MP main + 12MP ultra-wide + 10MP telephoto (3x, 10x)"},
+      {"battery": "5000mAh"}
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "water_resistant": true,
+    "5g_support": true
+  },
+  {
+    "product_id": "3",
+    "product_title": "Apple Watch Series 9 (GPS + Cellular)",
+    "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/Smart%20Watch/Apple%20/Series%209/Apple-Watch-Series-9-(5)-2212-800x800.jpg",
+    "category": "Watch",
+    "price": 429.00,
+    "description": "The latest Apple Watch with faster S9 chip, brighter display, and advanced health features.",
+    "specifications": [
+      {"display": "Always-On Retina LTPO OLED", "size": "41mm or 45mm"},
+      {"chip": "Apple S9"},
+      {"features": "ECG, Blood Oxygen, Fall Detection"},
+      {"battery": "Up to 18 hours"},
+      {"connectivity": "GPS + Cellular"},
+      {"water_resistance": "50m"}
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "strap_options": ["Sport Band", "Milanese Loop", "Leather Link"]
+  },
+  {
+    "product_id": "5",
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://image.made-in-china.com/2f0j00mtZGLEbKHior/1-1-Copy-Ipone-X-Mobile-Phone-5-0-Inch-HD-Screen-with-1g-RAM-16g-ROM-Cellphone.webp",
+    "category": "Phone",
+    "price": 1199.00,
+    "description": "Titanium design with A17 Pro chip, 48MP camera, and USB-C connectivity.",
+    "specifications": [
+      {"display": "6.7-inch Super Retina XDR", "refresh_rate": "120Hz ProMotion"},
+      {"chip": "A17 Pro (3nm)"},
+      {"camera": "48MP main + 12MP ultra-wide + 12MP telephoto (5x optical zoom)"},
+      {"storage": "256GB"},
+      {"battery": "Up to 29 hours video playback"},
+      {"ports": "USB-C (10Gbps)"}
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "colors": ["Black Titanium", "White Titanium", "Blue Titanium", "Natural Titanium"]
+  },
+  {
+    "product_id": "6",
+    "product_title": "Dell XPS 15 (2023)",
+    "product_image": "https://m.media-amazon.com/images/I/61uK2LY0gdL._AC_SL1500_.jpg",
+    "category": "Laptop",
+    "price": 1699.99,
+    "description": "Premium Windows laptop with 15.6-inch 4K display and 13th Gen Intel Core processors.",
+    "specifications": [
+      {"display": "15.6-inch 4K UHD+ (3840×2400) OLED Touch"},
+      {"processor": "Intel Core i7-13700H (14 cores)"},
+      {"graphics": "NVIDIA GeForce RTX 4050 (6GB GDDR6)"},
+      {"memory": "16GB DDR5"},
+      {"storage": "1TB PCIe NVMe SSD"},
+      {"battery": "86Wh (Up to 14 hours)"}
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "weight": "1.86kg"
+  },
+  {
+    "product_id": "8",
+    "product_title": "Samsung Galaxy Watch6 Classic",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/bd/2208/gallery/bd-galaxy-watch5-pro-sm-r920nzkaswa-thumb-533191800?$264_264_PNG$",
+    "category": "Watch",
+    "price": 369.99,
+    "description": "Premium smartwatch with rotating bezel, Wear OS, and advanced health tracking.",
+    "specifications": [
+      {"display": "1.5-inch Super AMOLED", "resolution": "480×480"},
+      {"processor": "Exynos W930"},
+      {"os": "Wear OS (Samsung One UI 5 Watch)"},
+      {"health_features": "ECG, BIA, Heart Rate, Sleep Tracking"},
+      {"battery": "425mAh (Up to 40 hours)"},
+      {"water_resistance": "5ATM + IP68"}
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "sizes": ["43mm", "47mm"]
+  },
+  {
+    "product_id": "12",
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://diamu.com.bd/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold4-Graygreen.jpg",
+    "category": "Phone",
+    "price": 899.00,
+    "description": "Google's flagship with Tensor G2 chip, advanced computational photography, and pure Android experience.",
+    "specifications": [
+      {"display": "6.7-inch QHD+ LTPO OLED", "refresh_rate": "120Hz"},
+      {"chip": "Google Tensor G2"},
+      {"memory": "12GB RAM"},
+      {"storage": "128GB/256GB/512GB"},
+      {"camera": "50MP main + 12MP ultra-wide + 48MP telephoto (5x optical)"},
+      {"battery": "5000mAh"}
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "colors": ["Obsidian", "Snow", "Hazel"]
+  },
+  {
+    "product_id": "13",
+    "product_title": "Lenovo Yoga 9i (14-inch, Gen 8)",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5OsDu3s_gYJTJ4mEKdnC82XClsZf8xacsQ&s",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "Premium 2-in-1 convertible laptop with 360° hinge and 4K OLED display.",
+    "specifications": [
+      {"display": "14-inch 4K OLED Touch", "resolution": "3840×2400"},
+      {"processor": "Intel Core i7-1360P (12 cores)"},
+      {"memory": "16GB LPDDR5"},
+      {"storage": "1TB PCIe SSD"},
+      {"battery": "75Wh (Up to 14 hours)"},
+      {"features": "Rotating soundbar, fingerprint reader"}
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "weight": "1.37kg"
+  },
+  {
+    "product_id": "15",
+    "product_title": "Garmin Forerunner 965",
+    "product_image": "https://kryinternational.com/wp-content/uploads/2024/09/Samsung-Galaxy-Watch-7-Price-in-Bangladesh.jpg",
+    "category": "Watch",
+    "price": 599.99,
+    "description": "Premium GPS running smartwatch with AMOLED display and advanced training metrics.",
+    "specifications": [
+      {"display": "1.4-inch AMOLED", "resolution": "454×454"},
+      {"battery": "Up to 23 days (smartwatch mode)"},
+      {"sensors": "GPS, GLONASS, Galileo, HRM, Pulse Ox"},
+      {"features": "Training readiness, recovery time, race predictor"},
+      {"water_resistance": "5ATM"},
+      {"storage": "32GB for music"}
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "colors": ["Black", "Whitestone"]
+  },
+  {
+    "product_id": "17",
+    "product_title": "Razer Blade 15 (2023)",
+    "product_image": "https://www.jbhifi.com.au/cdn/shop/files/749929-Product-0-I-638518544407964431.jpg?v=1718771855",
+    "category": "Laptop",
+    "price": 2499.99,
+    "description": "Gaming laptop with high-refresh display and powerful NVIDIA RTX graphics.",
+    "specifications": [
+      {"display": "15.6-inch QHD", "refresh_rate": "240Hz"},
+      {"processor": "Intel Core i7-13800H (14 cores)"},
+      {"graphics": "NVIDIA GeForce RTX 4070 (8GB GDDR6)"},
+      {"memory": "16GB DDR5"},
+      {"storage": "1TB PCIe SSD"},
+      {"ports": "Thunderbolt 4, HDMI 2.1, USB-C 3.2 Gen 2"}
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "weight": "2.01kg"
+  },
+  {
+    "product_id": "18",
+    "product_title": "Fitbit Charge 6",
+    "product_image": "https://econaz.com.bd/wp-content/uploads/2024/01/imiki-sf1-01-500x500-2.webp",
+    "category": "Watch",
+    "price": 159.95,
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and Google apps.",
+    "specifications": [
+      {"display": "AMOLED color touchscreen"},
+      {"battery": "Up to 7 days"},
+      {"features": "24/7 heart rate, SpO2, 40+ exercise modes"},
+      {"connectivity": "Bluetooth 5.0"},
+      {"water_resistance": "50m"},
+      {"compatibility": "Android, iOS"}
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "colors": ["Black", "Silver", "Rose Gold"]
+  },
+  {
+    "product_id": "20",
+    "product_title": "OnePlus 11 5G",
+    "product_image": "https://image01-in.oneplus.net/media/202406/19/ec64eb41a8e787a798be1b71c13a51bb.png?x-amz-process=image/format,webp/quality,Q_80",
+    "category": "Phone",
+    "price": 699.00,
+    "description": "Flagship killer with Hasselblad camera, Snapdragon 8 Gen 2, and 100W fast charging.",
+    "specifications": [
+      {"display": "6.7-inch QHD+ LTPO3 AMOLED", "refresh_rate": "120Hz"},
+      {"chip": "Qualcomm Snapdragon 8 Gen 2"},
+      {"memory": "8GB/16GB RAM"},
+      {"storage": "128GB/256GB UFS 4.0"},
+      {"camera": "50MP main + 48MP ultra-wide + 32MP telephoto (2x optical)"},
+      {"battery": "5000mAh (100W SUPERVOOC)"}
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "colors": ["Titan Black", "Eternal Green"]
+  }
+]
