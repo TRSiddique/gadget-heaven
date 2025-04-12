@@ -4,7 +4,7 @@ import Gadgets from '../Gadgets/Gadgets';
 
 const Home = () => {
     return (
-        <div>
+        <div className='bg-white text-black'>
             <Banner></Banner>
             <Gadgets></Gadgets>
         </div>

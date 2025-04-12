@@ -3,7 +3,7 @@ import React from 'react';
 
 const TechTrends = () => {
   return (
-    <div className="p-10 max-w-5xl mx-auto">
+    <div className="p-10 max-w-5xl mx-auto bg-white ">
       <h1 className="text-3xl font-bold text-purple-600 mb-6">Top Tech Trends in Gadgets (2025)</h1>
 
       <p className="text-gray-700 mb-6">

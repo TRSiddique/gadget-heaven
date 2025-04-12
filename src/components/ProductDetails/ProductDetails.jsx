@@ -27,7 +27,7 @@ const ProductDetails = () => {
     };
 
     return (
-        <div>
+        <div className='bg-white text-black'>
             <div className="bg-purple-600 text-white text-center py-6 rounded-t-xl h-[300px]">
                 <h1 className="text-3xl font-bold">Product Details</h1>
                 <p className="mt-2">Explore the latest gadgets that will take your experience to the next level.</p>
