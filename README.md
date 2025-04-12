@@ -4,11 +4,9 @@ Welcome to **Gadget Galaxy**, a modern and responsive gadget showcase built with
 
 ## 🔗 Live Website
 
-👉 [Visit the Live Site](https://your-live-site-url.com)
+👉 [Visit the Live Site](https://gadget-heaven-trs.netlify.app/)
 
-## 📄 Requirement Document
 
-👉 [View Project Requirements](https://your-requirement-document-link.com)
 
 ---
 
